@@ -1,0 +1,11 @@
+KNN, acronym for K Nearest Neighbors, is a supervised learning algorithm. It is used for classification as well as regression problems.
+
+Pseudocode for KNN:
+1. Load the dataset
+2. Take the new data to be classified
+3. Find distances between that data point and all the other data points in the dataset
+4. Sort the distances
+5. Select top k labels and find the label with maximum frequency
+6. Label the new data as the class with maximum frequency
+
+Implementation is provided.
